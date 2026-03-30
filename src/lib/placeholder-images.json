@@ -1,3 +1,64 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Premium gym interior with dramatic lighting and professional equipment",
+      "imageUrl": "https://picsum.photos/seed/gym-hero/1920/1080",
+      "imageHint": "gym interior"
+    },
+    {
+      "id": "about-gym",
+      "description": "Spacious workout area at Muscle Factory Gym",
+      "imageUrl": "https://picsum.photos/seed/gym-about/800/600",
+      "imageHint": "fitness training"
+    },
+    {
+      "id": "trainer-1",
+      "description": "Certified fitness trainer portrait",
+      "imageUrl": "https://picsum.photos/seed/trainer1/400/500",
+      "imageHint": "fitness trainer"
+    },
+    {
+      "id": "trainer-2",
+      "description": "Professional weightlifting coach",
+      "imageUrl": "https://picsum.photos/seed/trainer2/400/500",
+      "imageHint": "gym coach"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Weightlifting area",
+      "imageUrl": "https://picsum.photos/seed/g1/600/600",
+      "imageHint": "dumbbells weights"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Cardio section",
+      "imageUrl": "https://picsum.photos/seed/g2/600/600",
+      "imageHint": "treadmill cardio"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Functional training area",
+      "imageUrl": "https://picsum.photos/seed/g3/600/600",
+      "imageHint": "crossfit gym"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Members working out",
+      "imageUrl": "https://picsum.photos/seed/g4/600/600",
+      "imageHint": "people gym"
+    },
+    {
+      "id": "gallery-5",
+      "description": "Gym entrance",
+      "imageUrl": "https://picsum.photos/seed/g5/600/600",
+      "imageHint": "gym reception"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Leg press machine",
+      "imageUrl": "https://picsum.photos/seed/g6/600/600",
+      "imageHint": "gym machine"
+    }
+  ]
 }
