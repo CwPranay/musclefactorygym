@@ -1,6 +1,6 @@
 
 import Image from "next/image";
-import { Instagram, Twitter, Linkedin } from "lucide-react";
+import { Instagram, Twitter } from "lucide-react";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 
 const TRAINERS = [
@@ -19,7 +19,7 @@ const TRAINERS = [
   {
     name: "Sameer V.",
     role: "Lifestyle Coach",
-    image: "gallery-4",
+    image: "trainer-3",
     specialization: "Weight Management"
   }
 ];

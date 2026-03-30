@@ -25,6 +25,12 @@
       "imageHint": "gym coach"
     },
     {
+      "id": "trainer-3",
+      "description": "Strength and conditioning coach in action",
+      "imageUrl": "https://images.unsplash.com/photo-1693214674477-1159bddf1598?w=600&auto=format&fit=crop",
+      "imageHint": "indian trainer"
+    },
+    {
       "id": "gallery-1",
       "description": "Weightlifting area",
       "imageUrl": "https://images.unsplash.com/photo-1521805103424-d8f8430e8933?w=600&auto=format&fit=crop",
@@ -44,21 +50,9 @@
     },
     {
       "id": "gallery-4",
-      "description": "Members working out",
-      "imageUrl": "https://images.unsplash.com/photo-1693214674477-1159bddf1598?w=600&auto=format&fit=crop",
-      "imageHint": "people gym"
-    },
-    {
-      "id": "gallery-5",
-      "description": "Gym entrance and equipment",
+      "description": "Gym reception and equipment",
       "imageUrl": "https://images.unsplash.com/photo-1584952811565-c4c4031805a8?q=80&w=687&auto=format&fit=crop",
       "imageHint": "gym reception"
-    },
-    {
-      "id": "gallery-6",
-      "description": "Leg press machine",
-      "imageUrl": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?q=80&w=2070&auto=format&fit=crop",
-      "imageHint": "gym machine"
     }
   ]
 }
