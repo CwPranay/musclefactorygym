@@ -35,7 +35,7 @@ export function Contact() {
                 <div>
                   <p className="text-sm font-bold text-muted-foreground uppercase tracking-widest mb-1">Our Location</p>
                   <address className="text-xl font-headline font-bold not-italic">
-                    Ulhasnagar, Maharashtra, India
+                    Muscle Factory Unisex Gym, Ulhasnagar
                   </address>
                 </div>
               </div>
@@ -63,7 +63,7 @@ export function Contact() {
 
           <div className="rounded-3xl overflow-hidden border-8 border-card shadow-2xl h-[500px] relative">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15068.79978627883!2d73.1492318554199!3d19.220268500000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7945037d57183%3A0xe5495c64379a0e6b!2sUlhasnagar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1716000000000!5m2!1sen!2sin" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15069.998934251014!2d73.13927338715818!3d19.2170406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be79468281b2e93%3A0x75d17a509b637f92!2sMuscle%20Factory%20Unisex%20Gym!5e0!3m2!1sen!2sin!4v1774852887652!5m2!1sen!2sin" 
               width="100%" 
               height="100%" 
               style={{ border: 0 }} 
@@ -74,7 +74,7 @@ export function Contact() {
             ></iframe>
             <div className="absolute top-4 left-4 p-4 bg-background/90 backdrop-blur-md rounded-2xl border border-border shadow-xl">
               <p className="text-xs font-bold uppercase tracking-widest text-primary mb-1">Find Us Here</p>
-              <p className="font-headline font-bold">Muscle Factory Gym</p>
+              <p className="font-headline font-bold">Muscle Factory Unisex Gym</p>
             </div>
           </div>
         </div>
