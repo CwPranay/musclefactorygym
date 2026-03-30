@@ -1,8 +1,8 @@
 
-import { Users, Star, Award, ShieldCheck } from "lucide-react";
+import { Users, Star, Award, ShieldCheck, MessageSquare } from "lucide-react";
 
 const STATS = [
-  { label: "Happy Members", value: "300+", icon: Users, color: "text-blue-500" },
+  { label: "Positive Reviews", value: "300+", icon: MessageSquare, color: "text-blue-500" },
   { label: "Google Rating", value: "4.7", icon: Star, color: "text-yellow-500", suffix: "⭐" },
   { label: "Certified Trainers", value: "Expert", icon: Award, color: "text-primary" },
   { label: "Equipments", value: "Modern", icon: ShieldCheck, color: "text-secondary" },

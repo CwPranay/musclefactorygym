@@ -56,7 +56,7 @@ export function Hero() {
                 300+
               </div>
             </div>
-            <p className="text-muted-foreground">Joined by <span className="text-foreground font-bold">300+ members</span> in Ulhasnagar</p>
+            <p className="text-muted-foreground">Trusted with <span className="text-foreground font-bold">300+ reviews</span> in Ulhasnagar</p>
           </div>
         </div>
       </div>
