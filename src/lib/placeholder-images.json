@@ -3,61 +3,61 @@
     {
       "id": "hero-bg",
       "description": "Premium gym interior with dramatic lighting and professional equipment",
-      "imageUrl": "https://picsum.photos/seed/gym-hero/1920/1080",
-      "imageHint": "gym interior"
+      "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "gym workout"
     },
     {
       "id": "about-gym",
       "description": "Spacious workout area at Muscle Factory Gym",
-      "imageUrl": "https://picsum.photos/seed/gym-about/800/600",
-      "imageHint": "fitness training"
+      "imageUrl": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "gym interior"
     },
     {
       "id": "trainer-1",
       "description": "Certified fitness trainer portrait",
-      "imageUrl": "https://picsum.photos/seed/trainer1/400/500",
+      "imageUrl": "https://images.unsplash.com/photo-1584466977773-e625c37cdd50?q=80&w=687&auto=format&fit=crop",
       "imageHint": "fitness trainer"
     },
     {
       "id": "trainer-2",
       "description": "Professional weightlifting coach",
-      "imageUrl": "https://picsum.photos/seed/trainer2/400/500",
+      "imageUrl": "https://images.unsplash.com/photo-1611672585731-fa10603fb9e0?q=80&w=687&auto=format&fit=crop",
       "imageHint": "gym coach"
     },
     {
       "id": "gallery-1",
       "description": "Weightlifting area",
-      "imageUrl": "https://picsum.photos/seed/g1/600/600",
+      "imageUrl": "https://images.unsplash.com/photo-1521805103424-d8f8430e8933?w=600&auto=format&fit=crop",
       "imageHint": "dumbbells weights"
     },
     {
       "id": "gallery-2",
       "description": "Cardio section",
-      "imageUrl": "https://picsum.photos/seed/g2/600/600",
+      "imageUrl": "https://images.unsplash.com/photo-1593079831268-3381b0db4a77?w=600&auto=format&fit=crop",
       "imageHint": "treadmill cardio"
     },
     {
       "id": "gallery-3",
       "description": "Functional training area",
-      "imageUrl": "https://picsum.photos/seed/g3/600/600",
+      "imageUrl": "https://images.unsplash.com/photo-1637430308606-86576d8fef3c?w=600&auto=format&fit=crop",
       "imageHint": "crossfit gym"
     },
     {
       "id": "gallery-4",
       "description": "Members working out",
-      "imageUrl": "https://picsum.photos/seed/g4/600/600",
+      "imageUrl": "https://images.unsplash.com/photo-1693214674477-1159bddf1598?w=600&auto=format&fit=crop",
       "imageHint": "people gym"
     },
     {
       "id": "gallery-5",
-      "description": "Gym entrance",
-      "imageUrl": "https://picsum.photos/seed/g5/600/600",
+      "description": "Gym entrance and equipment",
+      "imageUrl": "https://images.unsplash.com/photo-1584952811565-c4c4031805a8?q=80&w=687&auto=format&fit=crop",
       "imageHint": "gym reception"
     },
     {
       "id": "gallery-6",
       "description": "Leg press machine",
-      "imageUrl": "https://picsum.photos/seed/g6/600/600",
+      "imageUrl": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?q=80&w=2070&auto=format&fit=crop",
       "imageHint": "gym machine"
     }
   ]
